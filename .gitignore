@@ -43,3 +43,11 @@
 /drivers/COMPONENT_WIFI_ISM43362/
 /drivers/storage/COMPONENT_NUSD/
 /TESTS/pelion-e2e-python-test-library/
+BUILD
+.mbed
+mbed-os
+mbed-cloud-client
+drivers/storage/COMPONENT_NUSD
+drivers/COMPONENT_WIFI_ISM43362
+drivers/COMPONENT_WIFI_ESP32
+TESTS/pelion-e2e-python-test-library
